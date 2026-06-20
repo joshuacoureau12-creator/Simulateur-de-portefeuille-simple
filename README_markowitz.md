@@ -55,3 +55,5 @@ Chaque point représente un portefeuille simulé, coloré selon son ratio de Sha
 - Remplacer l'échantillonnage Monte Carlo par une résolution analytique (programmation quadratique via `scipy.optimize`) pour obtenir le portefeuille optimal exact, pas un point proche parmi les simulations
 - Tester sur des données de marché réelles (`yfinance`) plutôt que des rendements simulés
 - Ajouter une contrainte de poids maximal par actif pour limiter la concentration
+---
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/joshuacoureau12-creator/Simulateur-de-portefeuille-simple/blob/main/Simulation%20de%20portefeuilles%20simples.ipynb)
